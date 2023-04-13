@@ -6,7 +6,7 @@
 export AWS_PROFILE=egage-dev
 export PROJECT_NAME=egagedev
 export AWS_REGION=us-east-1
-export GIT_REPO=git@github.com:jeromedecoster/gitops-multienv-infra.git
+export GIT_REPO=git@github.com:batistajb/gitops-multienv-infra.git
 # the directory containing the script file
 export PROJECT_DIR="$(cd "$(dirname "$0")"; pwd)"
 
